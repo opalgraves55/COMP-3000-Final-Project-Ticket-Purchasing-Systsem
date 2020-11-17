@@ -11,7 +11,7 @@ Login/create an account; view and manage transactions(ticket purchases); update 
 Structures, 
 
 # Empathy Map
-![Empathy Map](https://github.com/opalgraves55/COMP-3000-Final-Project-Ticket-Purchasing-Systsem/files/5555324/Project.docx)
+![Empathy Map](https://github.com/opalgraves55/COMP-3000-Final-Project-Ticket-Purchasing-Systsem/files/5556438/Project.docx)
 
 
 # Scenario: 
